@@ -55,16 +55,27 @@ Formatá-lo para exportação como eBook em PDF
 **Capítulo	Tema**
 
 1	Introdução
+
 2	O que são Algoritmos?
+
 3	Variáveis, Tipos e Operadores
+
 4	Condicionais e Laços de Repetição
+
 5	Funções e Modularização
+
 6	Vetores e Matrizes
+
 7	Listas, Pilhas e Filas
+
 8	Árvores e Grafos
+
 9	Algoritmos de Ordenação e Busca
+
 10	Análise de Complexidade (Big-O)
+
 11	Projeto Final: Agenda com Listas Ligadas
+
 12	Recursos Extras e Próximos Passos
 
 
