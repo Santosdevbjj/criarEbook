@@ -6,18 +6,19 @@
 # Criando um Ebook com ChatGPT & MidJourney.
 
 
-📘 eBook: Algoritmos e Estrutura de Dados na Prática
+**📘 eBook: Algoritmos e Estrutura de Dados na Prática**
 
-Este repositório contém o eBook completo "Algoritmos e Estrutura de Dados na Prática", escrito com o apoio da inteligência artificial, estruturado em capítulos didáticos, exemplos práticos em Python, desafios e exercícios. O projeto demonstra como utilizar a IA para gerar conhecimento técnico de forma ética, eficiente e com alta qualidade.
+Este repositório contém o eBook completo "Algoritmos e Estrutura de Dados na Prática", escrito com o apoio da inteligência artificial, estruturado em capítulos didáticos, exemplos práticos em Python, desafios e exercícios.
 
-✨ Objetivo
+O projeto demonstra como utilizar a IA para gerar conhecimento técnico de forma ética, eficiente e com alta qualidade.
+
+**✨ Objetivo**
 
 Criar um eBook educacional voltado para estudantes, desenvolvedores iniciantes e profissionais que desejam dominar algoritmos e estruturas de dados, utilizando uma abordagem prática e interativa.
 
 
 
-
-🧠 Como a Inteligência Artificial foi usada
+**🧠 Como a Inteligência Artificial foi usada**
 
 Este projeto foi desenvolvido com o auxílio do ChatGPT da OpenAI, que atuou como um copiloto técnico e pedagógico. A IA foi utilizada para:
 
@@ -37,25 +38,21 @@ Formatá-lo para exportação como eBook em PDF
 
 
 
-📌 Prompts utilizados (exemplos reais)
+**📌 Prompts utilizados (exemplos reais)**
 
 > “Quero montar um eBook sobre algoritmos e estrutura de dados. Me explique em detalhes e com exemplos práticos.”
-“Sim, prepare todo o projeto.”
-“Sim, por favor. Gere o eBook em PDF, com todos os capítulos sugeridos e pronto para publicação.”
-“Sim, formate a capa no Canva.”
+" Prepare todo o projeto.”
+ " Gere o eBook em PDF, com todos os capítulos sugeridos e pronto para publicação.”
+" formate a capa no Canva.”
 “Gere um modelo para Google Docs.”
-“Sim, continue adicionando os capítulos completos.”
-“Sim, prossiga para o capítulo 10.”
-“Sim, prepare o arquivo PDF final completo com todo o conteúdo.”
-“Sim, vou publicar o ebook no GitHub. Faça o Readme.md no capricho mostrando todo o uso da IA, explicando os Prompts.”
+" continue adicionando os capítulos completos.”
+"  prossiga para o capítulo 10.”
+"  prepare o arquivo PDF final completo com todo o conteúdo.”
 
 
+**🧩 Estrutura do Conteúdo**
 
-
-
-🧩 Estrutura do Conteúdo
-
-Capítulo	Tema
+**Capítulo	Tema**
 
 1	Introdução
 2	O que são Algoritmos?
@@ -72,9 +69,7 @@ Capítulo	Tema
 
 
 
-
-
-🐍 Tecnologias Utilizadas
+**🐍 Tecnologias Utilizadas**
 
 📘 Python (exemplos práticos)
 
@@ -86,23 +81,15 @@ Capítulo	Tema
 
 
 
+**📎 Arquivos do Repositório**
 
+**ebook_algoritmos_completo.pdf:** versão final do eBook em PDF
 
-📎 Arquivos do Repositório
-
-ebook_algoritmos_completo.pdf: versão final do eBook em PDF
-
-README.md: este arquivo explicativo
-
-src/: (opcional) códigos-fonte dos exemplos e exercícios
-
-assets/: imagens e modelos da capa
+**README.md:** este arquivo explicativo
 
 
 
-
-
-🚀 Como usar este conteúdo
+**🚀 Como usar este conteúdo**
 
 1. Clone este repositório:
 
@@ -123,22 +110,13 @@ cd ebook-algoritmos
 
 
 
-
-
-
-🧠 Sobre o Autor
+**🧠 Sobre o Autor**
 
 Sérgio Santos é analista de sistemas com ampla experiência em desenvolvimento, suporte técnico e automação de processos. Apaixonado por ensinar, atualmente pesquisa e aplica inteligência artificial e educação digital, com foco em acessibilidade ao conhecimento técnico.
 
-> ✉️ Conecte-se no LinkedIn
-🧠 Veja outros projetos
 
 
-
-
-
-
-🧠 Conclusão
+**🧠 Conclusão**
 
 Este projeto demonstra como a IA pode ser uma aliada poderosa na produção de conteúdo educacional de qualidade. A junção entre conhecimento humano e inteligência artificial resultou em um material prático, acessível e inspirador para quem deseja evoluir na programação.
 
